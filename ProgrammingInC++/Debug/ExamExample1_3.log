@@ -1,0 +1,9 @@
+﻿  ex03-library.cpp
+c:\git\c++\programminginc++\examexample1_3\ex03-library.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\git\c++\programminginc++\examexample1_3\ex03-library.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\git\c++\programminginc++\examexample1_3\ex03-library.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ExamExample1_3.cpp
+c:\git\c++\programminginc++\examexample1_3\ex03-library.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ExamExample1_3.vcxproj -> C:\Git\C++\ProgrammingInC++\Debug\ExamExample1_3.exe
+  ExamExample1_3.vcxproj -> C:\Git\C++\ProgrammingInC++\Debug\ExamExample1_3.pdb (Partial PDB)

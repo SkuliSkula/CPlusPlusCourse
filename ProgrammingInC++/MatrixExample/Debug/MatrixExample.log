@@ -1,0 +1,9 @@
+﻿  MatrixExample.cpp
+c:\git\c++\programminginc++\matrixexample\matrixexample.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\git\c++\programminginc++\matrixexample\matrixexample.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\git\c++\programminginc++\matrixexample\matrixexample.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\git\c++\programminginc++\matrixexample\matrixexample.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\git\c++\programminginc++\matrixexample\matrixexample.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\git\c++\programminginc++\matrixexample\matrixexample.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  MatrixExample.vcxproj -> C:\Git\C++\ProgrammingInC++\Debug\MatrixExample.exe
+  MatrixExample.vcxproj -> C:\Git\C++\ProgrammingInC++\Debug\MatrixExample.pdb (Partial PDB)

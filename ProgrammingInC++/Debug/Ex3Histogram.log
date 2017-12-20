@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Ex3Histogram.cpp
+c:\git\c++\programminginc++\ex3histogram\ex3histogram.cpp(15): warning C4101: 'm': unreferenced local variable
+  Ex3Histogram.vcxproj -> C:\Git\C++\ProgrammingInC++\Debug\Ex3Histogram.exe
+  Ex3Histogram.vcxproj -> C:\Git\C++\ProgrammingInC++\Debug\Ex3Histogram.pdb (Partial PDB)

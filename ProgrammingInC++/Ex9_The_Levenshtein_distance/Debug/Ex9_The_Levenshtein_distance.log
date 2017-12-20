@@ -1,0 +1,4 @@
+﻿  Ex9_The_Levenshtein_distance.cpp
+c:\git\c++\programminginc++\ex9_the_levenshtein_distance\ex9_the_levenshtein_distance.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Ex9_The_Levenshtein_distance.vcxproj -> C:\Git\C++\ProgrammingInC++\Debug\Ex9_The_Levenshtein_distance.exe
+  Ex9_The_Levenshtein_distance.vcxproj -> C:\Git\C++\ProgrammingInC++\Debug\Ex9_The_Levenshtein_distance.pdb (Partial PDB)
